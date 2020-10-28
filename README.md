@@ -1,2 +1,2 @@
 # Test_Repo
-Test for HPC &amp; Cloud computing course
+Test Repo for HPC &amp; Cloud computing course
